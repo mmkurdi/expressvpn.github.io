@@ -127,7 +127,7 @@ ExpressVPN提供30天无条件退款保证，让用户在试用期内有充足�
 
 通过官网下载的ExpressVPN客户端，不仅能够使用最新的加密技术和稳定的服务器支持，还能获得及时的技术更新与安全保护。无论是在手机、电脑，还是其他智能设备上，官方版本的ExpressVPN都能为用户提供高速且安全的连接体验。
 
-注意：中国大陆的iOS用户可以通过第三方服务购买美区Apple ID，随后使用该Apple ID下载ExpressVPN的iOS客户端。 
+注意：中国大陆iOS用户可以通过“<a href="https://nf.video/BTgSc">银河录像局</a>”购买美区Apple ID，然后使用该Apple ID下载ExpressVPN iOS客户端。 
 
 ## ExpressVPN在中国如何使用？
 
