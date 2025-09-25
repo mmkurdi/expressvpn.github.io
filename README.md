@@ -1,6 +1,6 @@
 # <p align="center">ExpressVPN中国评测：ExpressVPN怎么样？ExpressVPN好用吗？ExpressVPN国内还能用吗？</p>
 
-<p align="center">最近更新：2025年9月16日</p>
+<p align="center">最近更新：2025年9月25日</p>
 
 ![ExpressVPN中国评测：ExpressVPN怎么样？ExpressVPN好用吗？ExpressVPN国内还能用吗？](https://raw.githubusercontent.com/cnvpns/expressvpn.github.io/refs/heads/main/image/ExpressVPN%E8%AF%84%E6%B5%8B-1.png)
 
@@ -239,5 +239,4 @@ ExpressVPN自研的Lightway协议进一步增强了其突破防火长城的能�
 * <a href="https://github.com/cnvpns/android.github.io">安卓翻墙教程</a>：2025年最好用的安卓机场和安卓VPN推荐！
 * <a href="https://github.com/cnvpns/freevpn.github.io">免费VPN推荐</a>：2025年最新免费VPN推荐(中国大陆可用)！
 * <a href="https://github.com/cnvpns/intochina.github.io">翻墙回国VPN</a>：2025年最好用的国外翻墙回国内VPN推荐！
-* <a href="https://github.com/cnvpns/expressvpn.github.io">ExpressVPN评测</a>：ExpressVPN怎么样？ExpressVPN好用吗？
 * <a href="https://github.com/cnvpns/telegram.github.io">Telegram注册</a>：如何注册电报？Telegram收不到验证码怎么办？
